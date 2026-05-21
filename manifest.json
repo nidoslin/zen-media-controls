@@ -3,6 +3,10 @@
   "name": "Zen Media Controls",
   "version": "1.0.0",
   "description": "Control YouTube with keyboard media keys. ⏪ single press = restart, double press = previous video. ⏩ = next video.",
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
   "content_scripts": [
     {
       "matches": [

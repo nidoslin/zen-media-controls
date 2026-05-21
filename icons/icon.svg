@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect width="48" height="48" rx="10" fill="#1a1a2e"/>
+  <!-- previous -->
+  <path d="M13 14v20l10-10z" fill="#e94560" opacity="0.5"/>
+  <!-- play -->
+  <polygon points="20,14 20,34 34,24" fill="#e94560"/>
+  <!-- next -->
+  <path d="M35 14v20l10-10z" fill="#e94560" opacity="0.5"/>
+</svg>
